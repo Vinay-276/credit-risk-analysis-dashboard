@@ -53,6 +53,7 @@ Advanced Insights
 
 
 Customer Level Analysis
+![This is a image](https://github.com/Vinay-276/credit-risk-analysis-dashboard/blob/main/page%204%20Customer%20Details%20.png?raw=true)
 
 
 Business Insights
