@@ -79,6 +79,6 @@ Dataset Info
 
 Dataset used for this project is available in the data folder
 
-If dataset is large, provide external link instead
-Example
-Dataset link: add your Google Drive or Kaggle link here
+Dataset link: Dataset Source  
+Loan Prediction Dataset from Kaggle  
+https://www.kaggle.com/datasets/laotse/credit-risk-dataset
