@@ -46,7 +46,7 @@ Overview Page
 
 ![This is a image](https://github.com/Vinay-276/credit-risk-analysis-dashboard/blob/main/page%201%20Overview.png?raw=true)
 Risk Analysis Page
-
+![This is a image](https://github.com/Vinay-276/credit-risk-analysis-dashboard/blob/main/page%202%20(Analysis).png?raw=true)
 
 Advanced Insights
 
