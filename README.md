@@ -49,6 +49,7 @@ Risk Analysis Page
 ![This is a image](https://github.com/Vinay-276/credit-risk-analysis-dashboard/blob/main/page%202%20(Analysis).png?raw=true)
 
 Advanced Insights
+![This is a image](https://github.com/Vinay-276/credit-risk-analysis-dashboard/blob/main/Page%203%20(Advanced%20,Influencers).png?raw=true)
 
 
 Customer Level Analysis
