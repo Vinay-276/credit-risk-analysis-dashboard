@@ -52,7 +52,6 @@ Advanced Insights
 ![This is a image](https://github.com/Vinay-276/credit-risk-analysis-dashboard/blob/main/Page%203%20(Advanced%20,Influencers).png?raw=true)
 
 
-Customer Level Analysis
 ![This is a image](https://github.com/Vinay-276/credit-risk-analysis-dashboard/blob/main/page%204%20Customer%20Details%20.png?raw=true)
 
 
@@ -62,6 +61,7 @@ High risk customers show significantly higher default rates
 Credit risk is concentrated in low income and high loan segments
 A portion of customers are rejected to reduce financial risk
 
+Customer Level Analysis
 Recommendations
 
 Restrict high loan amounts for low income customers
